@@ -104,4 +104,3 @@ venv.bak/
 dmypy.json
 .pyre/
 .pytype/
-cython_debug/
